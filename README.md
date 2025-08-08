@@ -122,6 +122,7 @@ Inspired by resources from Kaggle, YouTube, and Microsoft Power BI Community.
 📬 Contact
 
 If you have any questions, suggestions, or want to collaborate, feel free to connect with me on LinkedIn or raise an issue here!
+LinkedIn:https://www.linkedin.com/in/anna-simmi-m-d-797ba8339
 
 
 ---
