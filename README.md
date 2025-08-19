@@ -1,4 +1,5 @@
 📊 Business Sales Dashboard from E-commerce Data
+---
 
 📝 Overview
 
@@ -119,10 +120,11 @@ Inspired by resources from Kaggle, YouTube, and Microsoft Power BI Community.
 
 ---
 
-📬 Contact
+## 🌐 Connect With Me
 
-If you have any questions, suggestions, or want to collaborate, feel free to connect with me on LinkedIn or raise an issue here!
-LinkedIn:https://www.linkedin.com/in/anna-simmi-m-d-797ba8339
+<p align="center">
+  <a href="https://github.com/Anna-Simmi"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anna-simmi-m-d-797ba8339"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="annasimmim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>  
 
-
----
